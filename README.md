@@ -20,8 +20,9 @@ Soy un desarrollador enfocado en construir herramientas que optimicen el flujo d
 
 ### 📊 Estadísticas de Ingeniería
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoCompassTech&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Santiago" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoCompassTech&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoCompassTech&theme=tokyonight&hide_border=true" alt="Racha de Commits de Santiago" height="170px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoCompassTech&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170px"/>
 </p>
 
 ---
