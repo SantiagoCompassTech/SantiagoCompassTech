@@ -22,7 +22,7 @@ Soy un desarrollador enfocado en construir herramientas que optimicen el flujo d
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoCompassTech&theme=tokyonight&hide_border=true" alt="Racha de Commits de Santiago" height="170px"/>
   
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=SantiagoCompassTech&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Santiago" height="170px"/>
+  <img src="https://github-readmes.azurewebsites.net/api/top-langs/?username=SantiagoCompassTech&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Santiago" height="170px"/>
 </p>
 
 ---
